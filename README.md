@@ -1,4 +1,4 @@
-drag main.py in the folder
+drag main.py to the folder
 
 `bash run.sh`
 
