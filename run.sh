@@ -1,3 +1,4 @@
+python3 init.py 
 python3 main.py --node a &
 python3 main.py --node b &
 python3 main.py --node c &
