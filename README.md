@@ -2,6 +2,5 @@ drag main.py to the folder
 
 `bash run.sh`
 
-wait for it.
+wait for it and cheer.
 
-`python3 check.py`
