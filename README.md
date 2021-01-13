@@ -1,5 +1,7 @@
-drag main.py
+drag main.py in the folder
 
-run main.py
+`bash run.sh`
 
-run check.py
+wait for it.
+
+`python3 check.py`
