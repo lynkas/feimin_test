@@ -25,7 +25,7 @@ if [ "$(uname)" == "Darwin" ]; then
   echo "跑好了"
   python3 check.py
 else
-	python win_port_cleaner.py
+  python win_port_cleaner.py
   python init.py
   python main.py --node a &
   python main.py --node b &
