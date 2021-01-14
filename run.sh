@@ -14,4 +14,6 @@ python3 main.py --node l &
 echo "在跑了"
 wait
 echo "跑好了"
+
 python3 check.py
+
