@@ -5,6 +5,8 @@ answer_str = "answer"
 fileList = os.listdir(answer_str)
 ok = True
 for filename in fileList:
+    # fuck you, apple
+    if filename==".DS_store": continue
     with open(os.path.join(answer_str,filename)) as answerFile:
         with open(filename) as resultFile:
             answer = json.loads(answerFile.read())
